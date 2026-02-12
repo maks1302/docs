@@ -85,6 +85,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "n8n",
+        "groups": [
+          {
+            "group": "n8n workflows",
+            "pages": [
+              "hello"
+            ]
+          }
+        ]
       }
     ]
   },
