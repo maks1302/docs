@@ -30,6 +30,7 @@
     "tabs": [
       {
         "tab": "Guides",
+        "icon": "alarm-snooze",
         "groups": [
           {
             "group": "Getting started",
