@@ -11,18 +11,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
+          "anchor": "Main Website",
+          "icon": "earth-africa",
           "color": {
-            "light": "#a33215",
-            "dark": "#a33215"
+            "light": "#1540a3",
+            "dark": "#1540a3"
           },
-          "href": "https://mintlify.com/docs"
+          "href": "https://dziura.online"
         },
         {
           "anchor": "Blog",
           "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "href": "https://blog.dziura.online"
         }
       ]
     },
@@ -87,7 +87,8 @@
       },
       {
         "tab": "n8n",
-        "groups": [
+        "pages": [
+          "pink",
           {
             "group": "n8n workflows",
             "pages": [
